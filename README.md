@@ -10,6 +10,13 @@ Each step of my journey has a diary entry attached to it in its own folder. Usua
 - A `.s` file. This is the assembly file, written in ARM64 format, targeting Macho64 on the Apple Silicon chip. (My laptop is Apple M1 Pro)
 - A `.md` file. This is the entry related to the chapter.
 
+## Journal Entries
+
+1. [Exit](./000_exit/)
+2. [Move and Add](./001_movadd/)
+3. [Read and Print, cat command](./002_cat/)
+4. [Stream to file line by line](./003_filewriter/)
+
 ## Documentation
 
 This serves as a public information repository for my ASM learning journey. If it helps someone else, great! If it doesn't, I'm glad I have my documentation. That's really it.
