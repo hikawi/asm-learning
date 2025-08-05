@@ -16,6 +16,7 @@ Each step of my journey has a diary entry attached to it in its own folder. Usua
 2. [Move and Add](./001_movadd/)
 3. [Read and Print, cat command](./002_cat/)
 4. [Stream to file line by line](./003_filewriter/)
+5. [Number Guessing Game](./004_numberguess/)
 
 ## Documentation
 
