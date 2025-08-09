@@ -17,6 +17,7 @@ Each step of my journey has a diary entry attached to it in its own folder. Usua
 3. [Read and Print, cat command](./002_cat/)
 4. [Stream to file line by line](./003_filewriter/)
 5. [Number Guessing Game](./004_numberguess/)
+6. [Happy Birthday with ncurses](./006_happybirthday/)
 
 ## Documentation
 
